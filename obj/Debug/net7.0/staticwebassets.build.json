@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "BhJDcFKLct4vv6TVCwrYTohgo/qjb9A0E9Qg8N/zMNU=",
+  "Source": "FarmaMundo",
+  "BasePath": "_content/FarmaMundo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FarmaMundo\\wwwroot",
+      "Source": "FarmaMundo",
+      "ContentRoot": "C:\\Users\\SantiagoCoronado\\source\\repos\\FarmaMundo\\FarmaMundo\\wwwroot\\",
+      "BasePath": "_content/FarmaMundo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SantiagoCoronado\\source\\repos\\FarmaMundo\\FarmaMundo\\wwwroot\\css\\form.css",
+      "SourceId": "FarmaMundo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SantiagoCoronado\\source\\repos\\FarmaMundo\\FarmaMundo\\wwwroot\\",
+      "BasePath": "_content/FarmaMundo",
+      "RelativePath": "css/form.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\form.css"
+    },
+    {
+      "Identity": "C:\\Users\\SantiagoCoronado\\source\\repos\\FarmaMundo\\FarmaMundo\\wwwroot\\css\\style.css",
+      "SourceId": "FarmaMundo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SantiagoCoronado\\source\\repos\\FarmaMundo\\FarmaMundo\\wwwroot\\",
+      "BasePath": "_content/FarmaMundo",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
