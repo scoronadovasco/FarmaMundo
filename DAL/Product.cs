@@ -14,6 +14,8 @@ namespace FarmaMundo.DAL
         public string? Description { get; set; }
         public double? Price { get; set; }
         public DateTime CreateDate { get; set; }
+        public string? img { get; set; }
+        public string? Fabricante { get; set; }
     
     public virtual ICollection<Category>? CategoriesRelationList { get; set; }
     public virtual ICollection<ProductCategory>? ProductCategoriesRelationList { get; set; }
